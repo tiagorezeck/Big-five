@@ -1,0 +1,6 @@
+{
+  "name": "Big Five Brasil - Teste de Personalidade",
+  "description": "Teste de personalidade dos Cinco Grandes Fatores (Big Five / OCEAN) baseado no IPIP-NEO-120 com relatório detalhado em português.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
